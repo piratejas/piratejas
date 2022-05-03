@@ -6,5 +6,4 @@ I have joined The School of Code Bootcamp 12 and committed to #100DaysOfCode, so
 
 Current projects:
 - jazzing up my Tribute Page to the late, great Charles Bradley by incorporating responsive design principles and media elements;
-- making my koala less fugly by improving my CSS skills;
 - learning every day, focusing on getting into a computational thinking mindset and trying to write clean, readable code

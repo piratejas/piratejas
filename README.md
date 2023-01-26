@@ -1,5 +1,3 @@
-Hello World!
-
-My name is Pira and I am a (still developing) full stack web developer, and a recent graduate of the School of Code Bootcamp 12.
+Hello World! My name is Pira and I am a software developer.
 
 ![Codewars](https://github.r2v.ch/codewars?user=piratejas&stroke=%23BB432C)

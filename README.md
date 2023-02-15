@@ -1,14 +1,14 @@
-# Hello World! 
+# 👋Hello World! 
 
 **I'm Pira, a self-taught career-switcher and bootcamp graduate who loves to solve problems.**
 
 After a decade in the hospitality industry managing servers and handling client requests, I decided to make the leap into the world of tech and do something completely different... 😮
 
-Since graduating from [School Of Code](https://www.schoolofcode.co.uk/), I have been continuing my learning journey independently and honing my skills through coding challenges, building projects, and lots and lots of console logging.
+Since graduating from [School Of Code](https://www.schoolofcode.co.uk/)🚀, I have been continuing my learning journey independently and honing my skills through coding challenges, building projects, and lots and lots of console logging.
 
 Now I am looking for the opportunity to prove myself in my first professional role as a ***Junior Full-Stack Software Developer***.
 
-*If you:*
+⭐ *If you:*
 
 - *have an opening for a creative, enthusiastic and adaptable junior dev*
 - *are looking to collaborate on a project*
